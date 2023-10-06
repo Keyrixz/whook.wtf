@@ -107,7 +107,7 @@ local function SBOZ_fake_script() -- TextButton.LocalScript
 
 	script.Parent.MouseButton1Click:Connect(function()
 		loadstring(game:HttpGet(("https://raw.githubusercontent.com/Keyrixz/SaturnHub/main/ArmWrestle.lua"), true))()
-		script.Parent.Visible = false
+		script.Parent.Parent.Parent.Visible = false
 	end)
 end
 coroutine.wrap(SBOZ_fake_script)()
