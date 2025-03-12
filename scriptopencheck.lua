@@ -1,1 +1,1 @@
-local scriptstatus = true
+local scriptstatus = true ölalaldlasd
