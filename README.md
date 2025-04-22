@@ -26,10 +26,10 @@ We develop with precision, speed, and community in mind. ✨
 
 | Project Name | Description | Status |
 |--------------|-------------|--------|
-| 🎯 `Valorant Utilities` | Enhance your gaming with smart tools and integrations. | 🚧 In Progress |
-| 🛡 `UnBan Suite` | Privacy-enhancing unban tools & trackers. | 🚧 In Progress |
+| 🎯 `Valorant Software's` | Enhance your gaming with smart tools and integrations. | 🚧 In Progress |
+| 🛡 `UnBan Software's` | Privacy-enhancing unban tools & trackers. | 🚧 In Progress |
 | ⚡ `Ocean / Echo / Storm Bypassers` | Bypass game scan systems with ease. | 🚧 In Progress |
-| 🧩 `Roblox Toolbox` | Automation, debug, and trigger tools for Roblox. | 🧪 Beta |
+| 🧩 `Roblox Script's` | Automation, debug, and trigger tools for Roblox. | 🧪 Beta |
 
 ---
 
