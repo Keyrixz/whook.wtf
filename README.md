@@ -25,8 +25,8 @@ We build tools for:
 
 | Project | Description | Status |
 |--------|-------------|--------|
-| 🎯 `TriggerScan` | Scan and detect unsafe events inside FiveM resources | ✅ Completed |
-| ⚡ `KY-Executor` | Lightweight custom in-game scripting executor *(for dev use)* | 🚧 In Progress |
+| 🎯 `Valorant Software's` | Scan and detect unsafe events inside FiveM resources | ✅ Completed |
+| ⚡ `Ocean / Echo / Storm Bypasser` | Lightweight custom in-game scripting executor *(for dev use)* | 🚧 In Progress |
 | 🧩 `Roblox Tools` | Various roblox-side tools for automation, remotes & debug | 🧪 Beta |
 
 ---
@@ -39,7 +39,5 @@ We build tools for:
 
 ## 📚 How to Use
 
-```bash
-git clone https://github.com/kysoftware/hub.git
-cd hub
-python3 start.py
+```lua
+Get Script In Our Discord Then Execute With Advanced Executor.
