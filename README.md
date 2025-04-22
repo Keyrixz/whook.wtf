@@ -14,12 +14,18 @@
 KY SOFTWARE is a modern software development team and gaming utility hub.
 We build tools for:
 
-- 🎮 **Game Modding** (FiveM, Roblox, etc.)
+- 🎮 **Game Software's** (FiveM, Roblox, etc.)
 - 🧠 **Automation Scripts**
-- 🧰 **Developer Utilities**
-- 🧪 Experimental Features & Exploit Research *(for educational purposes)*
+- 🧰 **UnBan Software's**
+- 🧪 **Hide your software from scanners!**
 
 ---
+
+## 🔵 Lua
+<img align="left" src="https://img.icons8.com/color/48/000000/lua-language.png" width="40" />
+
+## 🔵 C++
+<img align="left" src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png" width="40" />
 
 ## 🛠️ Projects
 
