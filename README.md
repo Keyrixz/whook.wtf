@@ -26,6 +26,7 @@ We build tools for:
 | Project | Description | Status |
 |--------|-------------|--------|
 | 🎯 `Valorant Software's` | Scan and detect unsafe events inside FiveM resources | ✅ Completed |
+| 🛡 `UnBan Software's` | Scan and detect unsafe events inside FiveM resources | ✅ Completed |
 | ⚡ `Ocean / Echo / Storm Bypasser` | Lightweight custom in-game scripting executor *(for dev use)* | 🚧 In Progress |
 | 🧩 `Roblox Tools` | Various roblox-side tools for automation, remotes & debug | 🧪 Beta |
 
