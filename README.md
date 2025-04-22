@@ -40,5 +40,5 @@ We build tools for:
 
 ## 📚 How to Use
 
-```lua
+```cpp
 Come Our Discord For More Information. (discord.gg/kysoftware)
