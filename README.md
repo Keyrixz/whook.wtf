@@ -11,40 +11,48 @@
 
 ## 🔥 About Us
 
-KY SOFTWARE is a modern software development team and gaming utility hub.
-We build tools for:
+**KY SOFTWARE** is a modern software development hub focused on **scripting**, **game tools**, and **security-focused utilities**.  
+We develop with precision, speed, and community in mind. ✨
 
-- 🎮 **Game Software's** (FiveM, Roblox, etc.)
-- 🧠 **Automation Scripts**
-- 🧰 **UnBan Software's**
-- 🧪 **Hide your software from scanners!**
-
----
-
-## 🔵 Lua
-<img align="left" src="https://img.icons8.com/color/48/000000/lua-language.png" width="40" />
-
-## 🔵 C++
-<img align="left" src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png" width="40" />
-
-## 🛠️ Projects
-
-| Project | Description | Status |
-|--------|-------------|--------|
-| 🎯 `Valorant Software's` | Make your game more fun with our software | 🚧 In Progress |
-| 🛡 `UnBan Software's` |Be A Safe With Our Privacy Protector's. | 🚧 In Progress |
-| ⚡ `Ocean / Echo / Storm Bypasser` | You using software and u called for scan ? No Problem Use Our Software For Clean | 🚧 In Progress |
-| 🧩 `Roblox Tools` | Various roblox-side tools for automation, remotes & debug | 🧪 Beta |
+### 🎯 Our Focus Areas:
+- 🎮 **Game Software Tools** (e.g. FiveM, Roblox)
+- 🤖 **Automation Scripts**
+- 🛡 **Unban & Privacy Utilities**
+- 🕵️ **Software Scanner Bypass Tools**
 
 ---
 
-## 📷 Screenshots
+## 🛠️ Featured Projects
 
-> Coming soon: UI previews, trigger scanners & executor interfaces.
+| Project Name | Description | Status |
+|--------------|-------------|--------|
+| 🎯 `Valorant Utilities` | Enhance your gaming with smart tools and integrations. | 🚧 In Progress |
+| 🛡 `UnBan Suite` | Privacy-enhancing unban tools & trackers. | 🚧 In Progress |
+| ⚡ `Ocean / Echo / Storm Bypassers` | Bypass game scan systems with ease. | 🚧 In Progress |
+| 🧩 `Roblox Toolbox` | Automation, debug, and trigger tools for Roblox. | 🧪 Beta |
+
+---
+
+## 🧠 Used Languages
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Lua-000080?style=for-the-badge&logo=lua&logoColor=white" />
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+</p>
+
+
+---
+
+## 📸 Screenshots
+
+> Coming soon: Interface previews, automation GUIs, and executor panels.
 
 ---
 
 ## 📚 How to Use
 
 ```lua
-"Come Our Discord For More Information. (discord.gg/kysoftware)"
+-- Want access to private tools and full guides?
+-- Join our Discord and get the latest insider builds!
+
+print("Come Our Discord For More Information. (discord.gg/kysoftware)")
