@@ -41,4 +41,4 @@ We build tools for:
 ## 📚 How to Use
 
 ```lua
-Get Script In Our Discord Then Execute With Advanced Executor.
+Come Our Discord For More Information. (discord.gg/kysoftware)
